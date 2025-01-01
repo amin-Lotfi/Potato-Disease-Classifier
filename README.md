@@ -9,6 +9,14 @@ This project is a simple web application built with **FastAPI** that uses a pre-
 
 This application helps in early detection of diseases, which is crucial for farmers to take timely action to protect their crops.
 
+## Project Images
+
+Here are some example images of potato leaves for reference:
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="image/1.png" alt="1" >
+</div>
+
 ## Project Structure
 
 The project directory is organized as follows:
@@ -63,13 +71,6 @@ This will start the application on `http://localhost:8000`.
 3. After uploading the image, click **"Predict"** to get the prediction result.
 4. The result will display the predicted class (Early Blight, Late Blight, or Healthy) along with the confidence level.
 
-## Project Images
-
-Here are some example images of potato leaves for reference:
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="image/1.png" alt="1" >
-</div>
 
 ## Code Explanation
 
