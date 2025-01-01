@@ -9,9 +9,7 @@ This project is a simple web application built with **FastAPI** that uses a pre-
 
 This application helps in early detection of diseases, which is crucial for farmers to take timely action to protect their crops.
 
-## Project Images
-
-Here are some example images of potato leaves for reference:
+## Images
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="image/1.png" alt="1" >
