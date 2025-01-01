@@ -68,7 +68,7 @@ This will start the application on `http://localhost:8000`.
 Here are some example images of potato leaves for reference:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="image/1.jpg" alt="Early Blight" style="width:30%; margin: 10px;">
+    <img src="image/1.png" alt="1" >
 </div>
 
 ## Code Explanation
